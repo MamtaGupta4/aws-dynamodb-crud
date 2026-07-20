@@ -45,19 +45,19 @@ aws-dynamodb-crud/
 
 ### Table Created
 
-![Table Created](screenshots/01-table-created.png)
+![alt text](image.png)
 
 ### Item Created
 
-![Item Created](screenshots/02-item-created.png)
+![alt text](image-1.png)
 
 ### Item Updated
 
-![Item Updated](screenshots/03-item-updated.png)
+![alt text](image-2.png)
 
 ### Item Deleted
 
-![Item Deleted](screenshots/04-item-deleted.png)
+![alt text](image-3.png)
 
 ---
 
